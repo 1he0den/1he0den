@@ -58,7 +58,7 @@ FastAPI · React.js · PokéAPI
 ## 📢 Контакты
 
 - GitHub: [github.com/1he0den](https://github.com/1he0den)
-- Email: askarovich@gmail.com
+- Email: askarovich0612@gmail.com
 
 ---
 
