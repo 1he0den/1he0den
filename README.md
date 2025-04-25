@@ -1,4 +1,4 @@
-# 👨‍💻 1he0den
+# 👨‍💻 1he0den(Rustem)
 
 ## 💼 Стек технологий
 
@@ -58,7 +58,7 @@ FastAPI · React.js · PokéAPI
 ## 📢 Контакты
 
 - GitHub: [github.com/1he0den](https://github.com/1he0den)
-- Email: your.email@example.com
+- Email: askarovich@gmail.com
 
 ---
 
